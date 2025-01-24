@@ -1,5 +1,5 @@
 # Integrating Reinforcement Learning and Virtual Fixtures for Safer Automatic Robotic Surgery
-![Abstract](images/abstract.png)
+![Abstract](abstract.png)
 
 ## Table of Contents
 
